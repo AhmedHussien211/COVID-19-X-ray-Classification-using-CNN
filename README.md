@@ -1,5 +1,6 @@
-🩺 COVID-19 X-ray Classification using CNN
-📌 Project Overview
+# 🩺 COVID-19 X-ray Classification using CNN
+
+## 📌 Project Overview
 
 This project focuses on building a Convolutional Neural Network (CNN) to automatically classify chest X-ray images into three categories:
 
@@ -12,21 +13,6 @@ Viral Pneumonia
 The model learns visual patterns from medical X-ray images and predicts the disease category. This project demonstrates a full deep learning pipeline, including data preprocessing, model building, training, validation, and performance visualization.
 
 The project was implemented using Python and TensorFlow/Keras and trained on Google Colab.
-
-📂 Dataset Structure
-
-The dataset is divided into training and testing sets.
-            dataset/
-            │
-            ├── train/
-            │   ├── Normal/
-            │   ├── Covid/
-            │   └── Viral Pneumonia/
-            │
-            └── test/
-                ├── Normal/
-                ├── Covid/
-                └── Viral Pneumonia/
 
 ⚙️ Data Preprocessing
 
